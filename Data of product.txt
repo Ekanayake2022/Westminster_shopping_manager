@@ -1,0 +1,3 @@
+#001,Jug,12,1200.0,Philips,12 mon,Electronic,
+#002,T shirt,14,900.0,M,Blue,Clothing,
+34,tv,34,40000.0,samsung,12 months,Electronic,
